@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @lore-v
-- 
 
 <!---
 lore-v/lore-v is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
